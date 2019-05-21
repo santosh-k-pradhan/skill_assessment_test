@@ -1,0 +1,116 @@
+{
+    "categories": [
+      {
+        "title": "Fruit",
+        "id": "c1",
+        "description": "Fruits are the means by which angiosperms disseminate seeds. ... In common language usage, fruit normally means the fleshy seed-associated structures of a plant that are sweet or sour, and edible in the raw state, such as apples, bananas, grapes, lemons, oranges, and strawberries.",
+        "child_categories": [
+          {
+            "title": "Musaceae",
+            "id": "cc1",
+            "description": "Musaceae is a family of flowering plants composed of three genera with ca 91 known species, placed in the order Zingiberales. The family is native to the tropics of Africa and Asia."
+          },
+          {
+            "title": "Rosaceae",
+            "id": "cc2",
+            "description": "Rosaceae, the rose family, is a medium-sized family of flowering plants, including 4,828 known species in 91 genera. The name is derived from the type genus Rosa."
+          },
+          {
+            "title": "Citrus",
+            "id": "cc3",
+            "description": "Citrus is a genus of flowering trees and shrubs in the rue family, Rutaceae. Plants in the genus produce citrus fruits, including important crops such as oranges, lemons, grapefruits, pomelos, and limes."
+          }
+        ]
+      },
+      {
+        "title": "Bakery",
+        "id": "c2",
+        "description": "Baking various breads and pastries is work which suits those with an interest in the food industry in general and ambitions of running their own bakery after gaining experience.Preparing pastries, cakes, breads, and other baked goods is the responsibility of a Baker.",
+        "child_categories": [
+          {
+            "title": "Cookies and sweets",
+            "id": "cc1",
+            "description": "A cookie is a baked or cooked food that is small, flat and sweet. It usually contains flour, sugar and some type of oil or fat. It may include other ingredients such as raisins, oats, chocolate chips, nuts, etc."
+          }
+        ]
+      },
+      {
+        "title": "Meat",
+        "id": "c3",
+        "description": "Meat is generally eaten cooked, but many recipes call for raw beef, veal or fish (tartare). Steak tartare is a meat dish made from finely chopped or minced raw beef or horse meat. Meat is often spiced or seasoned, particularly with meat products such as sausages.",
+        "child_categories": [
+          {
+            "title": "Beef",
+            "id": "cc1",
+            "description": "Beef is the culinary name for meat from cattle, particularly skeletal muscle. ... Trimmings, on the other hand, are usually mixed with meat from older, leaner (therefore tougher) cattle, are ground, minced or used in sausages."
+          },
+          {
+            "title": "Bird",
+            "id": "cc2",
+            "description": "Birds have feathers, wings, lay eggs and are warm blooded. ... Birds have hollow bones which help them fly. Some bird species are intelligent enough to create and use tools. The chicken is the most common species of bird found in the world."
+          },
+          {
+            "title": "Mutton",
+            "id": "cc3",
+            "description": "The definitions for lamb, hogget and mutton vary considerably between countries. Younger lambs are smaller and more tender. Mutton is meat from a sheep over two years old, and has less tender flesh. In general, the darker the colour, the older the animal."
+          }
+        ]
+      },
+      {
+        "title": "Dairy",
+        "id": "c4",
+        "description": "Dairy products, milk products or lacticinia are a type of food produced from or containing the milk of mammals. They are primarily produced from mammals such as cattle, water buffaloes, goats, sheep, camels and humans. Dairy products include food items such as yogurt, cheese and butter.",
+        "child_categories": [
+          {
+            "title": "Milk",
+            "id": "cc1",
+            "description": "A whitish liquid containing proteins, fats, lactose, and various vitamins and minerals that is produced by the mammary glands of all mature female mammals after they have given birth and serves as nourishment for their young."
+          },
+          {
+            "title": "Yoghurt",
+            "id": "cc2",
+            "description": "The bacteria used to make yogurt are known as yogurt cultures. The fermentation of lactose by these bacteria produces lactic acid, which acts on milk protein to give yogurt its texture and characteristic tart flavor. ... bulgaricus and Streptococcus thermophilus bacteria."
+          }
+        ]
+      },
+      {
+        "title": "Pantry",
+        "id": "c5",
+        "description": "A pantry is a room where beverages, food, and sometimes dishes, household cleaning chemicals, linens, or provisions are stored. Food and beverage pantries serve in an ancillary capacity to the kitchen.",
+        "child_categories": [
+          {
+            "title": "Flours",
+            "id": "cc1",
+            "description": "Wheat flour is a powder made from the grinding of wheat used for human consumption. More wheat flour is produced than any other flour. ... Hard flour, or bread flour, is high in gluten, with 12% to 14% gluten content, and has elastic toughness that holds its shape well once baked."
+          },
+          {
+            "title": "Sugar",
+            "id": "cc2",
+            "description": "a sweet material that consists essentially of sucrose obtained from sugarcane or sugar beets, is typically colorless or white when pure, and is commonly used to sweeten foods and beverages. 2 : any of numerous soluble and usually sweet carbohydrates (as glucose or sucrose) that occur naturally especially in plants."
+          },
+          {
+            "title": "Grains",
+            "id": "cc3",
+            "description": "the seeds of plants (such as wheat, corn, and rice) that are used for food also : a single seed of wheat, corn, rice, etc. : a plant that produces grain. : a small, hard piece of something."
+          },
+          {
+            "title": "Coffee and Tea",
+            "id": "cc4",
+            "description": "Coffee is a brewed drink prepared from roasted coffee beans, the seeds of berries from certain Coffea species. ... Roasted beans are ground and then brewed with near-boiling water to produce the beverage known as coffee."
+          }
+        ]
+      },
+      {
+        "title": "Refreshments",
+        "id": "c6",
+        "description": "the act of refreshing : the state of being refreshed",
+        "child_categories": [
+          {
+            "title": "Drinks",
+            "id": "cc1",
+            "description": "A drink (or beverage) is a liquid intended for human consumption. In addition to their basic function of satisfying thirst, drinks play important roles in human culture. Common types of drinks include plain drinking water, milk, coffee, tea, hot chocolate, juice and soft drinks."
+          }
+        ]
+      }
+    ]
+  }
